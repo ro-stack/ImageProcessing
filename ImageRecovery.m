@@ -1,4 +1,3 @@
-%% Ronan Hayes - Assignment One
 clc;
 clear;
 close all;
